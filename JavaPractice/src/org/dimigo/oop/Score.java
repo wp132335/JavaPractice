@@ -51,6 +51,8 @@ public class Score {
 			.append("점");
 		
 		System.out.println(print);
+		
+		scanner.close();
 	}
 
 }
